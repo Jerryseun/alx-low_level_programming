@@ -1,8 +1,7 @@
 #include <unistd.h>
 /**
- * main - Print exactly "and that piece of art is useful" - Dora Korpar, 2015-10-19" 
- * followed by a new line, to the standard error
- * 
+ * main - Print to the standard error followed by a new line
+ *
  * Return: Always 1
  */
 int main(void)
