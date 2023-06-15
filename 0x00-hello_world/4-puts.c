@@ -1,6 +1,6 @@
 #!bin/bash
 #include <stdio.h>
-/*
+/**
  * main - Entry point
  * prints using puts
  * Return - 0
