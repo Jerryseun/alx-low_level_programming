@@ -7,7 +7,7 @@
   */
 int main(void)
 {
-	_putchar("ALX-Africa");
+	_putchar("_putchar");
 	_putchar("\n");
 
 	return (0);
