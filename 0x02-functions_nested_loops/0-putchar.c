@@ -1,4 +1,4 @@
-#include <alx-africa.h>
+#include <main.h>
 /**
   * main: Entry point
   * Description: Prints "ALX-Africa"
