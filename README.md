@@ -1,1 +1,1 @@
-C programming
+Additional projects for pointers, arrays and strings
